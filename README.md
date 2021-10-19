@@ -1,3 +1,5 @@
+I tried so many times but I failed to host the site in the firebase hosting.and so why I have to deploy in the netlify.
+
 1. This website is about healthcare
 2. it is a Physical therapy organization
 I created it in my own design. Here I added a navbar and some menu in the navbar. and in the navbar I added a logout button and also added the user name.
