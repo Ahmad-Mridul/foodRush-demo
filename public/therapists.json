@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Jacob Smith",
+        "expertize": "Physiotherapy",
+        "img": "https://healthtimes.com.au/administrator/uploads/article_images/Physiotherapist1619405188.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Robert Johnson",
+        "expertize": "Message Therapy",
+        "img": "https://www.northwestcareercollege.edu/wp-content/uploads/2018/10/Massage-Therapy-career.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Micheal Williams",
+        "expertize": "Chiropractic Care",
+        "img": "https://www.spineuniverse.com/sites/default/files/lead-images/article/45851-chiropractic_spinal_manipulation_toggle_table_woman_11154209_ml.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sarah Taylor",
+        "expertize": "Acupuncture",
+        "img": "https://thumbs.dreamstime.com/b/therapist-applying-acupuncture-needle-acupuncture-therapist-applying-acupuncture-needle-to-her-client-s-head-170923048.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Richard Jones",
+        "expertize": "Occupational Therapy",
+        "img": "https://www.hackensackmeridianhealth.org/wp-content/uploads/2020/06/JRI-Outpatient-Rehab-Safety-255.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Barbara Miller",
+        "expertize": "Mental Health",
+        "img": "https://www.harding.edu/assets/www/academics/colleges-departments/education/mentalhealthwellness/slider_clinical_mental_health.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Thomas Rodrigues",
+        "expertize": "Alternative Medicine",
+        "img": "https://www.ucf.edu/news/files/2015/06/Dr.-Smith-portrait1-e1435608932639.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Jacob Wilson",
+        "expertize": "Post-COVID-19",
+        "img": "https://news.cgtn.com/news/2020-05-17/Turkish-doctor-says-morale-is-key-in-fighting-COVID-19-QzBF1mjDsQ/img/be32a8b8a32046bfafd254258a4be906/be32a8b8a32046bfafd254258a4be906.png"
+    },
+    {
+        "id": 9,
+        "name": "Nelson Jnr",
+        "expertize": "Mental Care",
+        "img": "https://www.asante.org/app/files/public/Scott-Nelson-wide.jpg"
+    }
+]

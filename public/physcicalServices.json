@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.pthealth.ca/app/uploads/2018/10/physiotherapy.jpg",
+        "title": "Physiotherapy",
+        "description": "Physiotherapy is a drug-free healthcare practice that gives patients the tools and techniques they need in order to acquire and maintain an optimum level of function and pain-free living."
+    },
+    {
+        "id": 2,
+        "img": "https://www.pthealth.ca/app/uploads/2018/10/massage-therapy.jpg",
+        "title": "Massage Therapy",
+        "description": "Our experienced and professional Registered Massage Therapists (RMTs) can help you alleviate the discomfort associated with everyday stress, injury, and pain."
+    },
+    {
+        "id": 3,
+        "img": "https://www.pthealth.ca/app/uploads/2018/10/chiropractic-care.jpg",
+        "title": "Chiropractic Care",
+        "description": "Chiropractic care is a scientifically based field of health care which restores and maintains health and wellness of the entire body by focusing on the spine and nervous system."
+    },
+    {
+        "id": 4,
+        "img": "https://www.pthealth.ca/app/uploads/2018/10/acupuncture.jpg",
+        "title": "Acupuncture",
+        "description": "This form of treatment has roots in Traditional Chinese Medicine and operates with the idea that every form of illness is caused by an energy imbalance in the human body."
+    },
+    {
+        "id": 5,
+        "img": "https://www.pthealth.ca/app/uploads/2018/10/occupational-therapy.jpg",
+        "title": "Occupational Therapy",
+        "description": "Occupational therapists work with patients of all ages & abilities who face obstacles in daily activities, helping them participate in occupations that give meaning & purpose to their lives."
+    },
+    {
+        "id": 6,
+        "img": "https://www.pthealth.ca/app/uploads/2018/10/injury-psychology-2.jpg",
+        "title": "Mental Health",
+        "description": "Mental health is just as important as physical health. A psychologist, or more specifically, a clinical psychologist, offers expert counselling in hospitals, clinics or counselling centres."
+    },
+    {
+        "id": 7,
+        "img": "https://www.pthealth.ca/app/uploads/2018/10/naturopathic.jpg",
+        "title": "Alternative Medicine",
+        "description": "Naturopathic Medicine is a rapidly growing primary healthcare field that emphasizes disease prevention, identifying the root cause of symptoms, and encouraging the body’s innate healing abilities."
+    },
+    {
+        "id": 8,
+        "img": "https://www.pthealth.ca/app/uploads/2021/03/post-covid-man-treadmill.jpg",
+        "title": "Post-COVID-19",
+        "description": "The Post COVID-19 Recovery Program helps individuals who have pandemic related anxiety and are struggling to return to work, as well as those who had contracted the virus and continue to feel the physical and mental effects of this critical illness."
+    },
+    {
+        "id": 9,
+        "img": "https://pthealth.ca/app/uploads/2018/08/pelvic-health.jpg",
+        "title": "Specialized Physiotherapy Programs",
+        "description": "Specialized programs at pt Health are developed by experts in the field to treat specific conditions like arthritis, concussion, TMD and more."
+    },
+    {
+        "id": 10,
+        "img": "https://www.pthealth.ca/app/uploads/2018/11/treatment-modalities.jpg",
+        "title": "Treatment Methods & Modalities",
+        "description": "The tools and methods used by physiotherapists to strengthen muscles, reduce pain, and restore function."
+    },
+    {
+        "id": 11,
+        "img": "https://www.pthealth.ca/app/uploads/services-images/assisted-devices.jpg",
+        "title": "Therapeutic Aids",
+        "description": "From compression socks, to custom knee braces, splinting, and orthotics, all of the therapeutic aids used by physiotherapists to improve stability and range of motion."
+    },
+    {
+        "id": 12,
+        "img": "https://pthealth.ca/app/uploads/2018/08/neurological-rehabilitation.jpg",
+        "title": "Neurological Rehabilitation",
+        "description": "Neurological rehabilitation helps maximize functionality while improving balance, coordination, strength, flexibility, & cardiovascular function after an injury to the nervous system."
+    },
+    {
+        "id": 13,
+        "img": "https://www.pthealth.ca/app/uploads/services-images/sports-injury-rehabilitation.jpg",
+        "title": "Injuries",
+        "description": "pt Health physiotherapists treat a wide range of injuries, such as car accidents, athletic injuries, workplace injuries and more."
+    },
+    {
+        "id": 14,
+        "img": "https://www.pthealth.ca/app/uploads/services-images/childrens-physiotherapy.jpg",
+        "title": "Ages and Stages of Life",
+        "description": "Physiotherapy can help feel your best at every stage in your life. Discover our age specific physiotherapy programs and find the right one for you."
+    },
+    {
+        "id": 15,
+        "img": "https://www.pthealth.ca/app/uploads/services-images/chronic-condition-management.jpg",
+        "title": "Chronic Condition Management",
+        "description": "Get help managing chronic conditions like COPD, MS, cardiac diseases, arthritis, Parkinson’s disease, & more."
+    }
+]
