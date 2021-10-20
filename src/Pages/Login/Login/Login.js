@@ -12,7 +12,6 @@ const Login = () => {
     const { signInUsingGoogle } = useAuth();
     const handleRegistration = e => {
         e.preventDefault();
-        console.log(email, password);
         if (password.length < 6) {
             setError('Password Must be at least 6 characters long');
             return;
@@ -24,7 +23,6 @@ const Login = () => {
         signInWithEmailAndPassword(auth, email, password)
             .then(result => {
                 const user = result.user;
-                console.log(user);
                 setError('');
             })
             .catch(error => {
@@ -47,7 +45,6 @@ const Login = () => {
         createUserWithEmailAndPassword(auth, email, password)
             .then(result => {
                 const user = result.user;
-                console.log(user);
                 setError('');
                 varifyEmail();
                 setUserName();
@@ -63,16 +60,15 @@ const Login = () => {
     const varifyEmail = () => {
         sendEmailVerification(auth.currentUser)
             .then(result => {
-                console.log(result)
             })
     }
     return (
-        <div className=" container">
+        <div className=" container p-5">
             <div className="row">
-                <div className="bg-info col-sm-12 col-lg-6 col-md-6" >
+                <div className=" col-sm-12 col-lg-6 col-md-6" >
                     <img width="400px" src="https://image.freepik.com/free-vector/access-control-system-abstract-concept_335657-3180.jpg" alt="" />
                 </div>
-                <div className="bg-danger  col-sm-12 col-lg-6 col-md-6">
+                <div className="bg-danger text-white  col-sm-12 col-lg-6 col-md-6 p-3">
                     <h2>Please {isLogin ? "Login" : "Register"}</h2>
 
                     <form onSubmit={handleRegistration} className="text-white">
@@ -101,7 +97,7 @@ const Login = () => {
                             <input
                                 onChange={toogleLogin}
                                 htmlFor="form-check-input" type="checkbox" id="gridCheck1" />
-                            <label htmlFor="form-check-label" htmlFor="gridCheck1">
+                            <label htmlFor="gridCheck1">
                                 Already registered?
                             </label>
                         </div>
@@ -111,7 +107,7 @@ const Login = () => {
 
                     </form>
                     <div>------------------------------</div>
-                    <button onClick={signInUsingGoogle} className="btn btn-warning">Google SignIn</button>
+                    Google SignIn:<button onClick={signInUsingGoogle} className=" ms-2 btn btn-warning"><i class="fab fa-google"></i></button>
                 </div>
             </div>
         </div>

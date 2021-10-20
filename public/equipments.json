@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Anthropometric Instrument",
+        "img": "https://www.quickmedical.com/media/catalog/QM_category/346.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Aquatic Therapy",
+        "img": "https://www.quickmedical.com/media/catalog/QM_category/5841.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Balance Trainers",
+        "img": "https://www.quickmedical.com/media/catalog/QM_category/5449.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cervical Traction",
+        "img": "https://www.quickmedical.com/media/catalog/QM_category/7040.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chair Back Support Attachment",
+        "img": "https://www.quickmedical.com/media/catalog/QM_category/7962.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Chiropractic Table",
+        "img": "https://www.quickmedical.com/media/catalog/QM_category/5439.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cold & Hot Therapy",
+        "img": "https://www.quickmedical.com/media/catalog/QM_category/5570.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Crutches",
+        "img": "https://www.quickmedical.com/media/catalog/QM_category/3325.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Dynamometers",
+        "img": "https://www.quickmedical.com/media/catalog/QM_category/5925.jpg"
+    }
+]

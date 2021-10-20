@@ -6,49 +6,49 @@ const Footer = () => {
     return (
         <div>
             <footer>
-                <div class="content">
-                    <div class="top">
-                        <div class="logo-details">
-                            <span class="logo_name">Physiotherapy</span>
+                <div className="content">
+                    <div className="top">
+                        <div className="logo-details">
+                            <span className="logo_name">Physiotherapy</span>
                         </div>
-                        <div class="media-icons">
-                            <Link to="/"><i class="fa fa-facebook"></i></Link>
-                            <Link to="/"><i class="fa fa-twitter"></i></Link>
-                            <Link to="/"><i class="fa fa-instagram"></i></Link>
-                            <Link to="/"><i class="fa fa-linkedin"></i></Link>
-                            <Link to="/"><i class="fa fa-youtube"></i></Link>
+                        <div className="media-icons">
+                            <Link to="/home"><i className="fa fa-facebook"></i></Link>
+                            <Link to="/home"><i className="fa fa-twitter"></i></Link>
+                            <Link to="/home"><i className="fa fa-instagram"></i></Link>
+                            <Link to="/home"><i className="fa fa-linkedin"></i></Link>
+                            <Link to="/home"><i className="fa fa-youtube"></i></Link>
                         </div>
                     </div>
-                    <div class="link-boxes">
-                        <ul class="box">
-                            <li class="link_name">Links</li>
-                            <li><Link to="/">Home</Link></li>
-                            <li><Link to="/">Contact</Link></li>
-                            <li><Link to="/">About Us</Link></li>
-                            <li><Link to="/">Get Started</Link></li>
+                    <div className="link-boxes">
+                        <ul className="box">
+                            <li className="link_name">Links</li>
+                            <li><Link to="/home">Home</Link></li>
+                            <li><Link to="/home">Contact</Link></li>
+                            <li><Link to="/home">About Us</Link></li>
+                            <li><Link to="/home">Get Started</Link></li>
 
                         </ul>
-                        <ul class="box">
-                            <li class="link_name">Therapies</li>
-                            <li><Link to="/">Massage Therapy</Link></li>
-                            <li><Link to="/">Chiropractic Care</Link></li>
-                            <li><Link to="/">Acupuncture</Link></li>
-                            <li><Link to="/">Occupational Therapy</Link></li>
+                        <ul className="box">
+                            <li className="link_name">Therapies</li>
+                            <li><Link to="/home">Massage Therapy</Link></li>
+                            <li><Link to="/home">Chiropractic Care</Link></li>
+                            <li><Link to="/home">Acupuncture</Link></li>
+                            <li><Link to="/home">Occupational Therapy</Link></li>
 
                         </ul>
-                        <ul class="box">
-                            <li class="link_name">Therapist</li>
-                            <li><Link to="/">Robert Johnson</Link></li>
-                            <li><Link to="/">Micheal Williams</Link></li>
-                            <li><Link to="/">Sarah Taylor</Link></li>
-                            <li><Link to="/">Richard Jones</Link></li>
+                        <ul className="box">
+                            <li className="link_name">Therapist</li>
+                            <li><Link to="/home">Robert Johnson</Link></li>
+                            <li><Link to="/home">Micheal Williams</Link></li>
+                            <li><Link to="/home">Sarah Taylor</Link></li>
+                            <li><Link to="/home">Richard Jones</Link></li>
 
                         </ul>
-                        <ul class="box">
-                            <li class="link_name">Contact</li>
-                            <li><Link to="/">+880 161*******</Link></li>
-                            <li><Link to="/">+880 8879887262</Link></li>
-                            <li><Link to="/">contact@physiotherapy.com</Link></li>
+                        <ul className="box">
+                            <li className="link_name">Contact</li>
+                            <li><Link to="/home">+880 161*******</Link></li>
+                            <li><Link to="/home">+880 8879887262</Link></li>
+                            <li><Link to="/home">contact@physiotherapy.com</Link></li>
 
 
                         </ul>
@@ -58,11 +58,11 @@ const Footer = () => {
 
                     </div>
                 </div>
-                <div class="bottom-details">
-                    <div class="bottom_text">
-                        <span class="copyright_text">Copyright © 2021 || all right resered <Link><span className="text-info">Ahmad Mridul</span></Link></span>
-                        <span class="policy_terms">
-                            <Link to="/">Privacy policy</Link>
+                <div className="bottom-details">
+                    <div className="bottom_text">
+                        <span className="copyright_text">Copyright © 2021 || all right resered <Link><span className="text-info">Ahmad Mridul</span></Link></span>
+                        <span className="policy_terms">
+                            <Link to="/home">Privacy policy</Link>
 
                         </span>
                     </div>

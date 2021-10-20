@@ -11,10 +11,10 @@ const PhysicalServices = () => {
 
     return (
         <div className="container">
-            <h2 className="pt-5">Our Therapies</h2>
+            <h1 className="pt-5 text-primary">Our Therapies</h1> <hr />
             <div className="row pt-5">
                 {
-                    physicalServices.slice(1, 7).map(allService => <PhysicalService
+                    physicalServices.slice(0, 6).map(allService => <PhysicalService
                         key={allService.id}
                         physicalService={allService}
                     >
